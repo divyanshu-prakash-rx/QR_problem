@@ -1,0 +1,26 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+}
+.qr{
+    border-radius: 30px;
+    padding:10px;
+}
+.container{
+    height: 100vh;
+}
+.card{
+    border-radius: 20px;
+}
+.qr-title{
+    font-family: Outfit,700;
+    font-size: 22px;
+    font-weight: bold;
+}
+.qr-text{
+    font-family: Outfit,400;
+    font-size: 15px;
+    color: hsl(220, 15%, 55%);
+}
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
